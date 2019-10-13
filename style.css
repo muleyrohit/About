@@ -1,0 +1,49 @@
+
+body {
+  font-family: Helvetica;
+  font-size: 13px;
+}
+
+
+header {
+    background-color : white;
+    color: black;
+    
+    height: 20px;
+    width: 100%;
+  }  
+
+
+a:link { 
+	 background-color: white;
+   font-color: Crimson;
+	 font-size: 14px;
+	 font-style: normal;
+	 font-family: helvetica;
+   font-weight: bold;
+	 text-decoration: none;
+
+}
+
+#left {
+  height: 1px;
+  float: left;
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  width: 300px;
+  margin: 0;
+  padding: 0;
+}
+
+#content {
+  margin-top: 20px;
+  float: left;
+  width: 700px;
+}
+
+#content p {
+  color: #333;
+  line-height: 18px;
+}
+

@@ -48,7 +48,7 @@ a:link {
  #content {
 	 width: 90%;
 	 margin-left: 5%;
-	 font-size: 13px;
+	 /* font-size: 15px; */
 	 
 	}
 	body { overflow-x: hidden; /* Hide scrollbars */ }

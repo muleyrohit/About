@@ -53,7 +53,7 @@ a:link {
 	}
 	body { overflow-x: hidden; /* Hide scrollbars */ }
 	#content p {
-		line-height: 19px;
+		line-height: 17px;
 	}
 }
 

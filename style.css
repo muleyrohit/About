@@ -1,8 +1,4 @@
 
-body {
-  font-family: Helvetica;
-  font-size: 15px;
-}
 
 
 header {
@@ -120,6 +116,8 @@ background-color: white;
 #content p {
   color: #333;
   line-height: 22px;
+  font-family: helvetica;
+  font-size: 15px;
 }
 
 

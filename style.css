@@ -123,14 +123,14 @@ background-color: white;
 }
 
 
-p.para_heading {
+#content p.para_heading {
 text-align: left;
 font-family: verdana;
 font-size: 16px;
 
 }
 
-p.essay_heading {
+#content p.essay_heading {
 text-align: left; 
 font-family: verdana; 
 font-size: 16px;

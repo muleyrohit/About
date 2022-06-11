@@ -98,6 +98,10 @@ background-color: white;
 	
 	 
 	}
+	img {
+		width: 90%;
+		margin-left: 5%;
+	}
 	body { overflow-x: hidden; /* Hide scrollbars */ }
 	
 }
